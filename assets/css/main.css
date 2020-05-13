@@ -121,6 +121,8 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
+	li a{color:#a2a2a2}
+
 	strong, b {
 		color: #787878;
 		font-weight: 400;
@@ -135,7 +137,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #bf496b; /*#787878*/
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -2165,6 +2167,7 @@ input, select, textarea {
 	}
 
 		ul li {
+			/*color: red;*/
 			padding-left: 0.5em;
 		}
 
@@ -2630,7 +2633,7 @@ input, select, textarea {
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #bf496b; /*#ffffff*/
+			color: #ffffff; /*#bf496b*/
 		}
 
 		#header h1 {
