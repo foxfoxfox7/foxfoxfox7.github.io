@@ -111,7 +111,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: #a2a2a2; /* #49bf9d*/
 		text-decoration: none;
 	}
 
@@ -2626,11 +2626,11 @@ input, select, textarea {
 		}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #ffffff; /**/
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			color: #bf496b; /*#ffffff*/
 		}
 
 		#header h1 {
@@ -2652,7 +2652,7 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
+			color: rgba(255, 255, 255, 0.4);/*#49bf9d*/
 		}
 
 	#footer .copyright {
